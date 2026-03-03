@@ -1,0 +1,3092 @@
+[
+    {
+        "model": "artworks.artist",
+        "pk": "83c2d319-b5d3-4e5a-b0cd-88ef781dfa7a",
+        "fields": {
+            "tate_id": "10093",
+            "name": "Abakanowicz, Magdalena",
+            "search_name": "Abakanowicz, Magdalena",
+            "gender": "Female",
+            "place_of_birth": "Polska",
+            "place_of_death": "",
+            "birth_year": 1930,
+            "death_year": null,
+            "tate_url": "http://www.tate.org.uk/art/artists/magdalena-abakanowicz-10093"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "7798eacb-bd02-4bb5-91f5-27e1e2852462",
+        "fields": {
+            "title": "Abakan Orange",
+            "search_title": "Abakan Orange",
+            "artist_id": "83c2d319-b5d3-4e5a-b0cd-88ef781dfa7a",
+            "medium": "Sisal and steel",
+            "credit_line": "Presented anonymously 2009",
+            "acquisition_year": "2009",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1971",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T12/T12980_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abakanowicz-abakan-orange-t12980"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1d2e9597-acfa-4da5-befb-1154f6ab7e13",
+        "fields": {
+            "title": "Abakan Red",
+            "search_title": "Abakan Red",
+            "artist_id": "83c2d319-b5d3-4e5a-b0cd-88ef781dfa7a",
+            "medium": "Sisal and metal",
+            "credit_line": "Presented anonymously 2009",
+            "acquisition_year": "2009",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1969",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T12/T12979_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abakanowicz-abakan-red-t12979"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "fb073579-4372-46d6-ad79-b02e849a72ca",
+        "fields": {
+            "title": "Backs",
+            "search_title": "Backs",
+            "artist_id": "83c2d319-b5d3-4e5a-b0cd-88ef781dfa7a",
+            "medium": "Burlap and resin",
+            "credit_line": "Presented anonymously 2009",
+            "acquisition_year": "2009",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1976\u201380",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T12/T12981_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abakanowicz-backs-t12981"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "67fabc3a-fa7b-4c28-a1be-0eac2e814911",
+        "fields": {
+            "title": "Embryology",
+            "search_title": "Embryology",
+            "artist_id": "83c2d319-b5d3-4e5a-b0cd-88ef781dfa7a",
+            "medium": "Burlap, cotton gauze, hemp rope, nylon and sisal",
+            "credit_line": "Presented anonymously 2009",
+            "acquisition_year": "2009",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1978\u201380",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T12/T12958_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abakanowicz-embryology-t12958"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+        "fields": {
+            "tate_id": "0",
+            "name": "Abbey, Edwin Austin",
+            "search_name": "Abbey, Edwin Austin",
+            "gender": "Male",
+            "place_of_birth": "Philadelphia, United States",
+            "place_of_death": "London, United Kingdom",
+            "birth_year": 1852,
+            "death_year": 1911,
+            "tate_url": "http://www.tate.org.uk/art/artists/edwin-austin-abbey-0"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "7632786b-6462-4e79-a090-6fadddc58d0c",
+        "fields": {
+            "title": "Illustration to \u2018Judith Shakespeare\u2019",
+            "search_title": "Illustration to 'Judith Shakespeare'",
+            "artist_id": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+            "medium": "Ink on paper",
+            "credit_line": "Presented by a group of admirers through John Singer Sargent 1924",
+            "acquisition_year": "1924",
+            "width": "305",
+            "height": "419",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1883",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N03/N03992_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbey-illustration-to-judith-shakespeare-n03992"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "afabe05c-fc05-437a-b4db-28336f6f8774",
+        "fields": {
+            "title": "Illustration to \u2018Sally in our Alley\u2019",
+            "search_title": "Illustration to 'Sally in our Alley'",
+            "artist_id": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+            "medium": "Ink on paper",
+            "credit_line": "Presented by a group of admirers through John Singer Sargent 1924",
+            "acquisition_year": "1924",
+            "width": "394",
+            "height": "254",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1886",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N03/N03991_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbey-illustration-to-sally-in-our-alley-n03991"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "5d47e44f-8f9f-41e5-9d2e-3de4cdd744a1",
+        "fields": {
+            "title": "Illustration to \u2018She Stoops to Conquer\u2019",
+            "search_title": "Illustration to 'She Stoops to Conquer'",
+            "artist_id": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+            "medium": "Ink on paper",
+            "credit_line": "Presented by a group of admirers through John Singer Sargent 1924",
+            "acquisition_year": "1924",
+            "width": "251",
+            "height": "295",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "c.1882\u20137",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N03/N03987_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbey-illustration-to-she-stoops-to-conquer-n03987"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "3fa056cf-9eff-45dd-9ba0-3f1db43dca7d",
+        "fields": {
+            "title": "Illustration to \u2018She Stoops to Conquer\u2019",
+            "search_title": "Illustration to 'She Stoops to Conquer'",
+            "artist_id": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+            "medium": "Ink on paper",
+            "credit_line": "Presented by a group of admirers through John Singer Sargent 1924",
+            "acquisition_year": "1924",
+            "width": "267",
+            "height": "413",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1885",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N03/N03988_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbey-illustration-to-she-stoops-to-conquer-n03988"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "25d8351c-5c2a-45c7-8256-e106b9e8509d",
+        "fields": {
+            "title": "Illustration to \u2018The Leather Bottel\u2019",
+            "search_title": "Illustration to 'The Leather Bottel'",
+            "artist_id": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+            "medium": "Ink on paper",
+            "credit_line": "Presented by a group of admirers through John Singer Sargent 1924",
+            "acquisition_year": "1924",
+            "width": "260",
+            "height": "286",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1887",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N03/N03990_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbey-illustration-to-the-leather-bottel-n03990"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "c38b4d0f-028d-4c28-b18f-6b48d54ea09a",
+        "fields": {
+            "title": "The Letter",
+            "search_title": "The Letter",
+            "artist_id": "a02fc10a-f66c-49d9-a73c-53c3ab4ed0fe",
+            "medium": "Ink on paper",
+            "credit_line": "Presented by a group of admirers through John Singer Sargent 1924",
+            "acquisition_year": "1924",
+            "width": "305",
+            "height": "267",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1890",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N03/N03989_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbey-the-letter-n03989"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "18907820-3ca7-46ab-80db-d3e2f970a585",
+        "fields": {
+            "tate_id": "2756",
+            "name": "Abbott, Berenice",
+            "search_name": "Abbott, Berenice",
+            "gender": "Female",
+            "place_of_birth": "Springfield, United States",
+            "place_of_death": "Monson, United States",
+            "birth_year": 1898,
+            "death_year": 1991,
+            "tate_url": "http://www.tate.org.uk/art/artists/berenice-abbott-2756"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "8bf97a81-419b-4559-8814-96d668cfa8b3",
+        "fields": {
+            "title": "Dinty Moore Antiques",
+            "search_title": "Dinty Moore Antiques",
+            "artist_id": "18907820-3ca7-46ab-80db-d3e2f970a585",
+            "medium": "Photograph, gelatin silver print on paper",
+            "credit_line": "Accepted by HM Government in lieu of inheritance tax from the Estate of Barbara Lloyd and allocated to Tate 2009",
+            "acquisition_year": "2010",
+            "width": "240",
+            "height": "180",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "c.1937",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbott-dinty-moore-antiques-p13098"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "df1edcc0-9d74-4b26-969e-0e0c56f9681d",
+        "fields": {
+            "title": "Leadbelly",
+            "search_title": "Leadbelly",
+            "artist_id": "18907820-3ca7-46ab-80db-d3e2f970a585",
+            "medium": "Photograph, gelatin silver print on paper",
+            "credit_line": "Accepted by HM Government in lieu of inheritance tax from the Estate of Barbara Lloyd and allocated to Tate 2009",
+            "acquisition_year": "2010",
+            "width": "250",
+            "height": "210",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "date not known",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbott-leadbelly-p13099"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "34804ebf-cb70-413d-83d1-6b9c3094cf9a",
+        "fields": {
+            "title": "Tri-Boro Barber Shop",
+            "search_title": "Tri-Boro Barber Shop",
+            "artist_id": "18907820-3ca7-46ab-80db-d3e2f970a585",
+            "medium": "Photograph, gelatin silver print on paper",
+            "credit_line": "Accepted by HM Government in lieu of inheritance tax from the Estate of Barbara Lloyd and allocated to Tate 2009",
+            "acquisition_year": "2010",
+            "width": "250",
+            "height": "200",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1935",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbott-tri-boro-barber-shop-p13100"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "93fc7d98-807e-41be-9cd8-61bf59e5cdc0",
+        "fields": {
+            "tate_id": "1",
+            "name": "Abbott, Lemuel Francis",
+            "search_name": "Abbott, Lemuel Francis",
+            "gender": "Male",
+            "place_of_birth": "Leicestershire, United Kingdom",
+            "place_of_death": "London, United Kingdom",
+            "birth_year": 1760,
+            "death_year": 1803,
+            "tate_url": "http://www.tate.org.uk/art/artists/lemuel-francis-abbott-1"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d9b542fa-ed02-41f5-825e-6f2ca0c9ae70",
+        "fields": {
+            "title": "Henry Byne, of Carshalton",
+            "search_title": "Henry Byne, of Carshalton",
+            "artist_id": "93fc7d98-807e-41be-9cd8-61bf59e5cdc0",
+            "medium": "Oil paint on canvas",
+            "credit_line": "Presented by Miss C.C. Lippincott 1885",
+            "acquisition_year": "1885",
+            "width": "737",
+            "height": "610",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "date not known",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/N/N01/N01198_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbott-henry-byne-of-carshalton-n01198"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "799068db-4562-4285-957c-6eb29629f9ee",
+        "fields": {
+            "title": "Portrait of the Engraver Francesco Bartolozzi",
+            "search_title": "Portrait of the Engraver Francesco Bartolozzi",
+            "artist_id": "93fc7d98-807e-41be-9cd8-61bf59e5cdc0",
+            "medium": "Oil paint on canvas",
+            "credit_line": "Presented by Mrs M. Bernard 1968",
+            "acquisition_year": "1968",
+            "width": "756",
+            "height": "676",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "date not known",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T01/T01067_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abbott-portrait-of-the-engraver-francesco-bartolozzi-t01067"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+        "fields": {
+            "tate_id": "622",
+            "name": "Abrahams, Ivor",
+            "search_name": "Abrahams, Ivor",
+            "gender": "Male",
+            "place_of_birth": "Wigan, United Kingdom",
+            "place_of_death": "",
+            "birth_year": 1935,
+            "death_year": null,
+            "tate_url": "http://www.tate.org.uk/art/artists/ivor-abrahams-622"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "144b67d6-a150-430c-b14a-c6bded4089e8",
+        "fields": {
+            "title": "A Dream Within a Dream",
+            "search_title": "A Dream Within a Dream",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "220",
+            "height": "180",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11141_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-a-dream-within-a-dream-p11141"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "c57eb7a7-d5ff-4c38-bc83-14827f572f83",
+        "fields": {
+            "title": "A Predicament",
+            "search_title": "A Predicament",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "232",
+            "height": "175",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11139_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-a-predicament-p11139"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "16700cd4-ed1f-4aff-800a-bfbcbe0bc67c",
+        "fields": {
+            "title": "Alone",
+            "search_title": "Alone",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "189",
+            "height": "182",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11136_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-alone-p11136"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "af242736-4a17-4567-8d03-30af10237ef6",
+        "fields": {
+            "title": "Arch I",
+            "search_title": "Arch I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "600",
+            "height": "792",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1971",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11106_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-arch-i-p11106"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "91ce5724-c87f-4f44-a1d3-da4c9594605f",
+        "fields": {
+            "title": "Arch II",
+            "search_title": "Arch II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "596",
+            "height": "796",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1971",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11107_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-arch-ii-p11107"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ab7641f8-49e4-4d2d-bb39-42dcfd5606d0",
+        "fields": {
+            "title": "Arch III",
+            "search_title": "Arch III",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "596",
+            "height": "794",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1971",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11108_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-arch-iii-p11108"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "921c9cf5-24c0-4789-bfb4-58711fb7d54b",
+        "fields": {
+            "title": "Arch IV",
+            "search_title": "Arch IV",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "596",
+            "height": "795",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1971",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11109_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-arch-iv-p11109"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "2eaf7883-01ba-4ef3-8eeb-edf0df6a49fe",
+        "fields": {
+            "title": "Baigneuses",
+            "search_title": "Baigneuses",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "648",
+            "height": "500",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1983",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11192_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-baigneuses-p11192"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "e36f953a-e008-4894-8431-ece4860d8750",
+        "fields": {
+            "title": "Diptych",
+            "search_title": "Diptych",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "829",
+            "height": "622",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1981",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11191_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-diptych-p11191"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "66ea861c-e8be-4a9d-91d2-2f5f6cddaf87",
+        "fields": {
+            "title": "Double Shrub I",
+            "search_title": "Double Shrub I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "647",
+            "height": "820",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1973",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11116_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-double-shrub-i-p11116"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "6b5f0510-0134-47de-ae76-a98d38be01d4",
+        "fields": {
+            "title": "Double Shrub II",
+            "search_title": "Double Shrub II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "647",
+            "height": "821",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1973",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11117_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-double-shrub-ii-p11117"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "dc9b96fd-38ad-48f3-b21b-040894a97b7a",
+        "fields": {
+            "title": "Femme du Midi I",
+            "search_title": "Femme du Midi I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "360",
+            "height": "235",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1979",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11170_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-femme-du-midi-i-p11170"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "662092ad-363c-4190-bd20-625b231aded2",
+        "fields": {
+            "title": "Femme du Midi II",
+            "search_title": "Femme du Midi II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "362",
+            "height": "280",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1979",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11171_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-femme-du-midi-ii-p11171"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "2c9b3906-f531-45f1-b8b1-b39d00edad6e",
+        "fields": {
+            "title": "Femme du Midi III",
+            "search_title": "Femme du Midi III",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "323",
+            "height": "220",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1979",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11172_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-femme-du-midi-iii-p11172"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1fe696ba-1753-4884-bd08-5affa57d729c",
+        "fields": {
+            "title": "Femme du Midi IV",
+            "search_title": "Femme du Midi IV",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "367",
+            "height": "293",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1979",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11173_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-femme-du-midi-iv-p11173"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "8b6587c6-b704-4933-a534-90bb9ffebbf4",
+        "fields": {
+            "title": "Femme du Midi V",
+            "search_title": "Femme du Midi V",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "375",
+            "height": "195",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1979",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11174_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-femme-du-midi-v-p11174"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1a2ecc66-9b18-428a-9efe-6fcba9774241",
+        "fields": {
+            "title": "Femme du Midi VI",
+            "search_title": "Femme du Midi VI",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "360",
+            "height": "210",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1979",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11175_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-femme-du-midi-vi-p11175"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "888ddba0-5d59-472a-91b5-3a63264855f5",
+        "fields": {
+            "title": "First State of \u2018Works Past I\u2019",
+            "search_title": "First State of 'Works Past I'",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "276",
+            "height": "202",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11131_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-first-state-of-works-past-i-p11131"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "4ea36d5c-0154-4d2a-9685-bb07e0787ed1",
+        "fields": {
+            "title": "Fourth State of \u2018Works Past I\u2019",
+            "search_title": "Fourth State of 'Works Past I'",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "276",
+            "height": "202",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11134_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-fourth-state-of-works-past-i-p11134"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ed25e29e-d33d-48a3-ba00-ea5d03b53beb",
+        "fields": {
+            "title": "Funerary Urn",
+            "search_title": "Funerary Urn",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "685",
+            "height": "455",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11167_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-funerary-urn-p11167"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "a41c5970-6c1b-4a55-ab6f-7e3fe37a51d5",
+        "fields": {
+            "title": "Garden Emblems I",
+            "search_title": "Garden Emblems I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "766",
+            "height": "565",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1967",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11099_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-emblems-i-p11099"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "5c3359ee-d60e-489c-9b9d-b864a0e2a3a4",
+        "fields": {
+            "title": "Garden Emblems II",
+            "search_title": "Garden Emblems II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "766",
+            "height": "565",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1967",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11100_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-emblems-ii-p11100"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "991fee1a-4000-4b84-8f00-5ef539f6775d",
+        "fields": {
+            "title": "Garden Suite I",
+            "search_title": "Garden Suite I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975",
+            "acquisition_year": "1975",
+            "width": "329",
+            "height": "534",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P04/P04001_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-i-p04001"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "703dfa97-301f-439b-9be2-578af2be78e4",
+        "fields": {
+            "title": "Garden Suite II",
+            "search_title": "Garden Suite II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975",
+            "acquisition_year": "1975",
+            "width": "295",
+            "height": "526",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P04/P04002_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-ii-p04002"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "037e37f4-8e0e-4e59-9ac6-19ef42f61179",
+        "fields": {
+            "title": "Garden Suite III",
+            "search_title": "Garden Suite III",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975",
+            "acquisition_year": "1975",
+            "width": "580",
+            "height": "780",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P04/P04003_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-iii-p04003"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "f1eb87e5-3d8e-4581-8a7d-b3c63aa6f3f2",
+        "fields": {
+            "title": "Garden Suite IV",
+            "search_title": "Garden Suite IV",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975",
+            "acquisition_year": "1975",
+            "width": "580",
+            "height": "784",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P04/P04004_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-iv-p04004"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "52c8b767-1dae-4ffc-8b9e-d16e6c7ee320",
+        "fields": {
+            "title": "Garden Suite V",
+            "search_title": "Garden Suite V",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975",
+            "acquisition_year": "1975",
+            "width": "372",
+            "height": "529",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P04/P04005_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-v-p04005"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ebac5bb5-36ef-494b-8029-86d10946a5c4",
+        "fields": {
+            "title": "Hedges I",
+            "search_title": "Hedges I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "1408",
+            "height": "1026",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11155_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-hedges-i-p11155"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "bfe05327-d081-46ac-906b-acc01d4e5193",
+        "fields": {
+            "title": "Hedges II",
+            "search_title": "Hedges II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "1407",
+            "height": "1024",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11156_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-hedges-ii-p11156"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "de008ab2-cfef-4c24-89a0-0a92fd2eeb1a",
+        "fields": {
+            "title": "Hollyhocks",
+            "search_title": "Hollyhocks",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "344",
+            "height": "455",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11113_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-hollyhocks-p11113"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d1ace96c-2342-4128-bbea-3a0993db00c9",
+        "fields": {
+            "title": "Hydrangeas",
+            "search_title": "Hydrangeas",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "246",
+            "height": "410",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11114_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-hydrangeas-p11114"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1f93f8fa-0c1e-4fb8-af07-4fef92f4cc78",
+        "fields": {
+            "title": "Lady in Niche",
+            "search_title": "Lady in Niche",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Fibreglass and polystyrene",
+            "credit_line": "Purchased 1982",
+            "acquisition_year": "1982",
+            "width": "2095",
+            "height": "1575",
+            "depth": "762",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1973",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T03/T03369_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-lady-in-niche-t03369"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "2e5a10ef-212c-4b98-a9a7-db5c5a332e07",
+        "fields": {
+            "title": "Lenore",
+            "search_title": "Lenore",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "152",
+            "height": "200",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11143_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-lenore-p11143"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "665f5753-e6d2-4356-bca4-891b0378f1dd",
+        "fields": {
+            "title": "Ligeia",
+            "search_title": "Ligeia",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "137",
+            "height": "134",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11151_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-ligeia-p11151"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "853dc701-5d7c-42d8-840f-3adf47352136",
+        "fields": {
+            "title": "Morella",
+            "search_title": "Morella",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "210",
+            "height": "160",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11152_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-morella-p11152"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "262c6f07-423b-4a14-9046-cf628e0f285a",
+        "fields": {
+            "title": "Nereids I",
+            "search_title": "Nereids I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and felt-tip pen on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "754",
+            "height": "960",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1986",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11195_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-nereids-i-p11195"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "cbbd3449-e899-44d6-81fe-7307536b5a19",
+        "fields": {
+            "title": "Nereids II",
+            "search_title": "Nereids II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and felt-tip pen on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "1008",
+            "height": "750",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1986",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11196_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-nereids-ii-p11196"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "b24a6d9c-fc7a-4cc3-a45f-1b620dfdeb4c",
+        "fields": {
+            "title": "Oxford Gardens I",
+            "search_title": "Oxford Gardens I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "385",
+            "height": "267",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11157_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-i-p11157"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "48753893-9574-43f3-8d40-322b112d53fc",
+        "fields": {
+            "title": "Oxford Gardens II",
+            "search_title": "Oxford Gardens II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "385",
+            "height": "267",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11158_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-ii-p11158"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "9c0ce3d3-2c95-46e0-8385-e8655ab222a6",
+        "fields": {
+            "title": "Oxford Gardens III",
+            "search_title": "Oxford Gardens III",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "385",
+            "height": "267",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11159_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-iii-p11159"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "9dcff96d-5264-4771-bc1f-038d709355d1",
+        "fields": {
+            "title": "Oxford Gardens IV",
+            "search_title": "Oxford Gardens IV",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "165",
+            "height": "242",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11160_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-iv-p11160"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ade2784e-d540-4c5a-9fe3-fbd2b36060e3",
+        "fields": {
+            "title": "Oxford Gardens IX",
+            "search_title": "Oxford Gardens IX",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "165",
+            "height": "287",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11165_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-ix-p11165"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "6594847b-c557-4ec8-8063-676331690145",
+        "fields": {
+            "title": "Oxford Gardens V",
+            "search_title": "Oxford Gardens V",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "190",
+            "height": "241",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11161_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-v-p11161"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1821290b-c483-450e-bbcb-c4d7e0c3d53c",
+        "fields": {
+            "title": "Oxford Gardens VI",
+            "search_title": "Oxford Gardens VI",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "155",
+            "height": "240",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11162_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-vi-p11162"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "92cba52c-3b4c-4000-8f24-2f7c8c907275",
+        "fields": {
+            "title": "Oxford Gardens VII",
+            "search_title": "Oxford Gardens VII",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "159",
+            "height": "235",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11163_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-vii-p11163"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "f5e20a09-c2ea-4e38-b00d-8dfe0e395a7f",
+        "fields": {
+            "title": "Oxford Gardens VIII",
+            "search_title": "Oxford Gardens VIII",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and varnish on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "153",
+            "height": "246",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11164_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-viii-p11164"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "bab574bd-84ac-4327-9da3-94a65ed997f2",
+        "fields": {
+            "title": "Oxford Gardens X",
+            "search_title": "Oxford Gardens X",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "155",
+            "height": "242",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11166_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-oxford-gardens-x-p11166"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "a79a2eb1-94c5-4142-a5fa-8be0663647aa",
+        "fields": {
+            "title": "Pathways I",
+            "search_title": "Pathways I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "340",
+            "height": "430",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11120_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-pathways-i-p11120"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "882eab39-6095-40db-a05c-f4890192fdb7",
+        "fields": {
+            "title": "Pathways II",
+            "search_title": "Pathways II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "460",
+            "height": "350",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11121_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-pathways-ii-p11121"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "92f0d098-6a9e-4a3e-84e7-6d7864948d38",
+        "fields": {
+            "title": "Pathways III",
+            "search_title": "Pathways III",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "318",
+            "height": "445",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11122_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-pathways-iii-p11122"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d64e1b33-1b77-43f1-ba98-1647b8f91e05",
+        "fields": {
+            "title": "Pathways IV",
+            "search_title": "Pathways IV",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "300",
+            "height": "485",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11123_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-pathways-iv-p11123"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ae6cbfef-c918-4e9f-a5bc-bf041c3e9739",
+        "fields": {
+            "title": "Pathways V",
+            "search_title": "Pathways V",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "345",
+            "height": "440",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11124_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-pathways-v-p11124"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "63c516c1-fa19-4aca-94a9-64d4c04561b0",
+        "fields": {
+            "title": "Pathways VI",
+            "search_title": "Pathways VI",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "423",
+            "height": "335",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11125_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-pathways-vi-p11125"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "83af8995-4cdc-4724-8edd-2c0fa85da06a",
+        "fields": {
+            "title": "Philosophy of Furniture",
+            "search_title": "Philosophy of Furniture",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "250",
+            "height": "162",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11140_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-philosophy-of-furniture-p11140"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "f2d48c08-aeef-4b01-9765-0fec3dad6315",
+        "fields": {
+            "title": "Privacy Plots I: Brick Wall",
+            "search_title": "Privacy Plots I: Brick Wall",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and flock fibre on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "518",
+            "height": "482",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11101_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-i-brick-wall-p11101"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "03e24d77-064e-4dad-b010-38bf4d178cbe",
+        "fields": {
+            "title": "Privacy Plots II: Flower Garden",
+            "search_title": "Privacy Plots II: Flower Garden",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and flock fibre on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "388",
+            "height": "611",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11102_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-ii-flower-garden-p11102"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "67a7aa0c-5cb8-4a27-905c-14044125c961",
+        "fields": {
+            "title": "Privacy Plots III: Suburban Hedge",
+            "search_title": "Privacy Plots III: Suburban Hedge",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and flock fibre on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "410",
+            "height": "580",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11103_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-iii-suburban-hedge-p11103"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "b6d7b57b-4d35-4b03-a3d0-2f1ee66ffd23",
+        "fields": {
+            "title": "Privacy Plots IV: Gate Post and Hedge",
+            "search_title": "Privacy Plots IV: Gate Post and Hedge",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint, varnish and flock fibre on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "355",
+            "height": "603",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11104_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-iv-gate-post-and-hedge-p11104"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "f6947d29-12a9-43a5-9440-442a6b23c2b6",
+        "fields": {
+            "title": "Privacy Plots V: Hedge and Street",
+            "search_title": "Privacy Plots V: Hedge and Street",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint and flock fibre on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "400",
+            "height": "595",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11105_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-v-hedge-and-street-p11105"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ab88688d-363c-427e-8c21-7c21c1278bce",
+        "fields": {
+            "title": "Rose Trees",
+            "search_title": "Rose Trees",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "372",
+            "height": "540",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11115_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-rose-trees-p11115"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "983ecd7d-dda5-4a03-a283-4859c3bd927d",
+        "fields": {
+            "title": "Second State of \u2018Works Past I\u2019",
+            "search_title": "Second State of 'Works Past I'",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "276",
+            "height": "202",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11132_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-second-state-of-works-past-i-p11132"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d1e2ac15-1656-464e-9433-e66d88b8f473",
+        "fields": {
+            "title": "Silence - A Fable",
+            "search_title": "Silence - A Fable",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "227",
+            "height": "163",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11153_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-silence-a-fable-p11153"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "0eb44139-65fd-4ba7-81a8-13dc4ae72b59",
+        "fields": {
+            "title": "Stone Bench",
+            "search_title": "Stone Bench",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "555",
+            "height": "515",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11119_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-stone-bench-p11119"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "2a0e8257-bb73-4ce8-b63e-ede7d6adc044",
+        "fields": {
+            "title": "Suburban Shrub I (Dawn)",
+            "search_title": "Suburban Shrub I (Dawn)",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "828",
+            "height": "620",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11110_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-suburban-shrub-i-dawn-p11110"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "2b6869cb-9f3e-4176-8f9e-7c20dda61d2a",
+        "fields": {
+            "title": "Suburban Shrub II (Dusk)",
+            "search_title": "Suburban Shrub II (Dusk)",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "831",
+            "height": "630",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11111_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-suburban-shrub-ii-dusk-p11111"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "79e21912-3c59-44c7-bea3-928e73865c9d",
+        "fields": {
+            "title": "Sundial I (Summer)",
+            "search_title": "Sundial I (Summer)",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint, felt and mixed media on paper",
+            "credit_line": "Purchased 1980",
+            "acquisition_year": "1980",
+            "width": "1016",
+            "height": "1197",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P07/P07384_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-sundial-i-summer-p07384"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1fbd7cf8-1b93-4ca4-9d60-83e42b59518b",
+        "fields": {
+            "title": "Sundial II (Winter)",
+            "search_title": "Sundial II (Winter)",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "1016",
+            "height": "1195",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-sundial-ii-winter-p11118"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "73d12f6f-edd5-4d9f-ac01-fc00afd2ab22",
+        "fields": {
+            "title": "Sunflowers",
+            "search_title": "Sunflowers",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "565",
+            "height": "610",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11112_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-sunflowers-p11112"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "39f50dd7-dc48-4a43-a887-ab586e17ab4b",
+        "fields": {
+            "title": "The Conqueror Worm",
+            "search_title": "The Conqueror Worm",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "257",
+            "height": "175",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11144_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-conqueror-worm-p11144"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "b56220d9-2a18-4309-a035-63c7efe2157c",
+        "fields": {
+            "title": "The Domain of Arnheim",
+            "search_title": "The Domain of Arnheim",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "226",
+            "height": "166",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11135_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-domain-of-arnheim-p11135"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "c0488311-2ae7-4cd7-ac3b-866182073bb9",
+        "fields": {
+            "title": "The Haunted Palace",
+            "search_title": "The Haunted Palace",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "153",
+            "height": "183",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11142_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-haunted-palace-p11142"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "f7044748-5e84-4474-a5ba-7dbdfb711ed8",
+        "fields": {
+            "title": "The Man that was Used Up",
+            "search_title": "The Man that was Used Up",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "161",
+            "height": "188",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11138_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-man-that-was-used-up-p11138"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "56b182ff-dcc5-4e3c-af83-0b7fe6c4f42b",
+        "fields": {
+            "title": "The Masque of the Red Death",
+            "search_title": "The Masque of the Red Death",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "275",
+            "height": "198",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11149_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-masque-of-the-red-death-p11149"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "c7664e30-33e1-42aa-89bd-3a4d1cbb9a22",
+        "fields": {
+            "title": "The Pit and the Pendulum",
+            "search_title": "The Pit and the Pendulum",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "250",
+            "height": "160",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11146_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-pit-and-the-pendulum-p11146"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "dad7deba-b8aa-4287-b5da-03280a55fa7f",
+        "fields": {
+            "title": "The Premature Burial",
+            "search_title": "The Premature Burial",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "129",
+            "height": "174",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11145_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-premature-burial-p11145"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "6f486772-7fa7-4fa6-a540-251433348e51",
+        "fields": {
+            "title": "The Raven",
+            "search_title": "The Raven",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "196",
+            "height": "140",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11147_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-raven-p11147"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "8f905e90-7da5-4fa2-b918-6450d2e61178",
+        "fields": {
+            "title": "The Sleeper",
+            "search_title": "The Sleeper",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "142",
+            "height": "190",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11148_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-sleeper-p11148"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "9105e23c-730d-48b1-95a0-6539e077748c",
+        "fields": {
+            "title": "The Sphinx",
+            "search_title": "The Sphinx",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "143",
+            "height": "205",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11154_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-sphinx-p11154"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d3aae156-6a81-474f-8a99-bfef6079b08d",
+        "fields": {
+            "title": "The Sphinx",
+            "search_title": "The Sphinx",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "637",
+            "height": "465",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11168_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-sphinx-p11168"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "27c32113-4c85-4c21-bc9b-929dbd99c8bd",
+        "fields": {
+            "title": "The Valley of Unrest",
+            "search_title": "The Valley of Unrest",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "246",
+            "height": "200",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11137_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-the-valley-of-unrest-p11137"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "4e4a9410-9483-4d46-ba5b-a6b30975b4f0",
+        "fields": {
+            "title": "Third State of \u2018Works Past I\u2019",
+            "search_title": "Third State of 'Works Past I'",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "276",
+            "height": "202",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11133_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-third-state-of-works-past-i-p11133"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "bd3244e0-bd1d-48c1-906a-c73f030bb3cf",
+        "fields": {
+            "title": "Untitled [from the book \u2018Oxford Gardens: a Sketchbook\u2019 by Ivor Abrahams]",
+            "search_title": "Untitled [from the book 'Oxford Gardens: a Sketchbook' by Ivor Abrahams]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Transferred from the Library 1979",
+            "acquisition_year": "1979",
+            "width": "197",
+            "height": "130",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1977",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P08/P08150_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-untitled-from-the-book-oxford-gardens-a-sketchbook-by-ivor-abrahams-p08150"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "56ca1932-0c52-427d-97c1-55aa6b01683c",
+        "fields": {
+            "title": "Vahine I",
+            "search_title": "Vahine I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "1070",
+            "height": "802",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1984",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11193_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-vahine-i-p11193"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "80a13036-09c1-47ce-9eca-d3c87ad7f382",
+        "fields": {
+            "title": "Vahine II",
+            "search_title": "Vahine II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "1074",
+            "height": "804",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1984",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11194_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-vahine-ii-p11194"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "637134d6-8407-4963-a86b-50a632179c49",
+        "fields": {
+            "title": "Winter Sundial",
+            "search_title": "Winter Sundial",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Acrylic paint on paper",
+            "credit_line": "Presented by Mme Andr\u00e9e Stassart 1979",
+            "acquisition_year": "1979",
+            "width": "702",
+            "height": "838",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1975",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T02/T02330_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-winter-sundial-t02330"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "3d964c57-6c1a-4eb1-9c9c-385681b0bf4d",
+        "fields": {
+            "title": "Works Past I",
+            "search_title": "Works Past I",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching and aquatint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "274",
+            "height": "200",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11126_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-works-past-i-p11126"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "7a1b904e-90d6-4a14-a225-349e394f14d7",
+        "fields": {
+            "title": "Works Past II",
+            "search_title": "Works Past II",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching and aquatint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "247",
+            "height": "200",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11127_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-works-past-ii-p11127"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "deea2a8f-4510-4510-9f62-3b4d0eca7876",
+        "fields": {
+            "title": "Works Past III",
+            "search_title": "Works Past III",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching and aquatint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "248",
+            "height": "175",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11128_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-works-past-iii-p11128"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d950e9c3-b342-404f-9968-67c320248713",
+        "fields": {
+            "title": "Works Past IV",
+            "search_title": "Works Past IV",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching and aquatint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "247",
+            "height": "199",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11129_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-works-past-iv-p11129"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "01091c2a-74b4-4e78-ba60-15b6b827d012",
+        "fields": {
+            "title": "Works Past V",
+            "search_title": "Works Past V",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Etching and aquatint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "247",
+            "height": "199",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11130_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-works-past-v-p11130"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "11ce7882-69f8-4ca3-9e06-167d3b8b6e57",
+        "fields": {
+            "title": "Wounded Warrior",
+            "search_title": "Wounded Warrior",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "650",
+            "height": "471",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11169_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-wounded-warrior-p11169"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "a493eb51-43a8-4a64-b393-c3a667f80f52",
+        "fields": {
+            "title": "Xing a Paragrab",
+            "search_title": "Xing a Paragrab",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "235",
+            "height": "165",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11150_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-xing-a-paragrab-p11150"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d94b3bf6-8d06-45fb-abaf-027640d4fa6f",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Screenprint on paper",
+            "credit_line": "Presented by Bernard Jacobson Gallery 1976",
+            "acquisition_year": "1976",
+            "width": "445",
+            "height": "594",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1976",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P03/P03149_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p03149"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "60d4151a-ab76-4659-baf3-65c3947c8be9",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "430",
+            "height": "252",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11176_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11176"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "6eac2fc8-af20-4232-86b8-0537994c45e5",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "365",
+            "height": "272",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11177_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11177"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "43ef4368-f564-4556-8752-23143e2db61d",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "290",
+            "height": "370",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11178_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11178"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "11890d14-7c22-4f81-9361-6b9b4918a76c",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "390",
+            "height": "320",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11179_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11179"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "11645c14-883c-44ec-bdf1-60b77705cdcb",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "335",
+            "height": "300",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11180_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11180"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "36fb3f06-3ba9-4686-957e-d57dcfb5afba",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "430",
+            "height": "375",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11181_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11181"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "8c9f2bfa-7de1-4073-86cd-93e1aed4a149",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "288",
+            "height": "345",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11182_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11182"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "0677f5de-a13c-4e81-bff7-80ca81334d2c",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "365",
+            "height": "350",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11183_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11183"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "006b8073-9f2e-49df-9312-2f64bea23c96",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "260",
+            "height": "400",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11184_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11184"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "46ef3a2d-6424-438e-987f-4e00529490a3",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "415",
+            "height": "315",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11185_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11185"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "9f99de92-d7bb-4ecf-909d-2fee7ba40b45",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "365",
+            "height": "280",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11186_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11186"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "2d6ceddb-3a07-458e-bde7-5ada68e7d47e",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "350",
+            "height": "320",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11187_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11187"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "54287ab6-2648-4483-9b45-f2e1df23fc5b",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "390",
+            "height": "350",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11188_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11188"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "174aac49-daf2-4e0f-9b16-4000991b9b14",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "397",
+            "height": "310",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11189_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11189"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "efefff3e-926a-4a9d-9691-e068905d5b5d",
+        "fields": {
+            "title": "[no title]",
+            "search_title": "[no title]",
+            "artist_id": "7b04413a-9b92-49b1-a5a9-cffe1bdd0b4e",
+            "medium": "Lithograph on paper",
+            "credit_line": "Presented by Evelyne Abrahams, the artist's wife 1986",
+            "acquisition_year": "1986",
+            "width": "330",
+            "height": "330",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11190_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11190"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+        "fields": {
+            "tate_id": "2606",
+            "name": "Absalon",
+            "search_name": "Absalon",
+            "gender": "Male",
+            "place_of_birth": "Tel Aviv-Yafo, Yisra'el",
+            "place_of_death": "Paris, France",
+            "birth_year": 1964,
+            "death_year": 1993,
+            "tate_url": "http://www.tate.org.uk/art/artists/absalon-2606"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "4e260fbc-f130-42a3-b41d-7b452e78f1d1",
+        "fields": {
+            "title": "Assassinations",
+            "search_title": "Assassinations",
+            "artist_id": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+            "medium": "Video, monitor or projection, colour and sound",
+            "credit_line": "Presented by Galerie Chantal Crousel 1997",
+            "acquisition_year": "1997",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1993",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/absalon-assassinations-t07227"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "198ce576-208d-4426-b003-bda301710790",
+        "fields": {
+            "title": "Battle",
+            "search_title": "Battle",
+            "artist_id": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+            "medium": "Video, monitor or projection, colour and sound (mono)",
+            "credit_line": "Presented by Galerie Chantal Crousel 1997",
+            "acquisition_year": "1997",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1993",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/absalon-battle-t07226"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "68e4b6c1-c9d4-4c07-949c-67e430b52341",
+        "fields": {
+            "title": "Cell No. 1",
+            "search_title": "Cell No. 1",
+            "artist_id": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+            "medium": "Wood, fibreboard, fabric and fluorescent lights",
+            "credit_line": "Presented by the Patrons of New Art through the Tate Gallery Foundation 1997",
+            "acquisition_year": "1997",
+            "width": "2450",
+            "height": "4200",
+            "depth": "2200",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1992",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T07/T07222_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/absalon-cell-no-1-t07222"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "31d51b30-10da-4e94-8ac9-f66656c1bd09",
+        "fields": {
+            "title": "Noises",
+            "search_title": "Noises",
+            "artist_id": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+            "medium": "Video, monitor or projection, colour and sound",
+            "credit_line": "Presented by Galerie Chantal Crousel 1997",
+            "acquisition_year": "1997",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1993",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/absalon-noises-t07225"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "5a4ecb94-3583-40a1-a13c-08753338a1f1",
+        "fields": {
+            "title": "Proposals for a Habitat",
+            "search_title": "Proposals for a Habitat",
+            "artist_id": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+            "medium": "Video, monitor or projection, colour and sound (stereo)",
+            "credit_line": "Presented by Galerie Chantal Crousel 1997",
+            "acquisition_year": "1997",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1990",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/absalon-proposals-for-a-habitat-t07223"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "b99c3540-4c4c-41c5-ab70-48f71154497e",
+        "fields": {
+            "title": "Solutions",
+            "search_title": "Solutions",
+            "artist_id": "6c152cf3-7987-4896-85ca-6a5e749543a1",
+            "medium": "Video, monitor or projection, colour and sound (mono)",
+            "credit_line": "Presented by Galerie Chantal Crousel 1997",
+            "acquisition_year": "1997",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1992",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/absalon-solutions-t07224"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "f759290a-f991-487c-b976-0c74c9fe6fef",
+        "fields": {
+            "tate_id": "9550",
+            "name": "Abts, Tomma",
+            "search_name": "Abts, Tomma",
+            "gender": "Female",
+            "place_of_birth": "Kiel, Deutschland",
+            "place_of_death": "",
+            "birth_year": 1967,
+            "death_year": null,
+            "tate_url": "http://www.tate.org.uk/art/artists/tomma-abts-9550"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "df6b4f40-6da4-420b-a9ed-129fe4e4448c",
+        "fields": {
+            "title": "Noeme",
+            "search_title": "Noeme",
+            "artist_id": "f759290a-f991-487c-b976-0c74c9fe6fef",
+            "medium": "Oil paint and acrylic paint on canvas",
+            "credit_line": "Purchased 2006",
+            "acquisition_year": "2006",
+            "width": "480",
+            "height": "380",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "2004",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T12/T12275_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abts-noeme-t12275"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "0ece077c-4c40-4e82-8d27-0df27f864f2c",
+        "fields": {
+            "title": "Untitled # 1",
+            "search_title": "Untitled # 1",
+            "artist_id": "f759290a-f991-487c-b976-0c74c9fe6fef",
+            "medium": "Graphite, coloured graphite and ink on paper",
+            "credit_line": "Purchased 2008",
+            "acquisition_year": "2008",
+            "width": "840",
+            "height": "594",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "2004",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abts-untitled-1-t12759"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "90310517-5f16-410e-8dbc-22558d6bcc14",
+        "fields": {
+            "title": "Untitled no. 10",
+            "search_title": "Untitled no. 10",
+            "artist_id": "f759290a-f991-487c-b976-0c74c9fe6fef",
+            "medium": "Graphite on paper",
+            "credit_line": "Purchased 2010",
+            "acquisition_year": "2010",
+            "width": "841",
+            "height": "594",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "2008",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abts-untitled-no-10-t13043"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "8d388da3-996c-404c-bf11-e2a3668d42a2",
+        "fields": {
+            "title": "Untitled no. 6",
+            "search_title": "Untitled no. 6",
+            "artist_id": "f759290a-f991-487c-b976-0c74c9fe6fef",
+            "medium": "Graphite on paper",
+            "credit_line": "Purchased with funds provided by the Goss-Michael Foundation 2010  ",
+            "acquisition_year": "2010",
+            "width": "841",
+            "height": "594",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "2008",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T13/T13041_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abts-untitled-no-6-t13041"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "0b37de70-36dd-465d-b3f8-327a11c21a4e",
+        "fields": {
+            "title": "Untitled no. 8",
+            "search_title": "Untitled no. 8",
+            "artist_id": "f759290a-f991-487c-b976-0c74c9fe6fef",
+            "medium": "Graphite on paper",
+            "credit_line": "Purchased with assistance from the Goss-Michael Foundation 2010",
+            "acquisition_year": "2010",
+            "width": "841",
+            "height": "594",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "2008",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abts-untitled-no-8-t13042"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "1d7fc2dc-ad77-4db0-9847-e0e9c24497fc",
+        "fields": {
+            "title": "Zebe",
+            "search_title": "Zebe",
+            "artist_id": "f759290a-f991-487c-b976-0c74c9fe6fef",
+            "medium": "Acrylic paint and oil paint on canvas",
+            "credit_line": "Presented by Tate Members 2011",
+            "acquisition_year": "2012",
+            "width": "480",
+            "height": "380",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "2010",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T13/T13592_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/abts-zebe-t13592"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+        "fields": {
+            "tate_id": "623",
+            "name": "Acconci, Vito",
+            "search_name": "Acconci, Vito",
+            "gender": "Male",
+            "place_of_birth": "New York, United States",
+            "place_of_death": "",
+            "birth_year": 1940,
+            "death_year": null,
+            "tate_url": "http://www.tate.org.uk/art/artists/vito-acconci-623"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "93ccc1d6-0215-4b2b-babf-33d886587c90",
+        "fields": {
+            "title": "3 Flags for 1 Space and 6 Regions",
+            "search_title": "3 Flags for 1 Space and 6 Regions",
+            "artist_id": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+            "medium": "6 aquatints on paper",
+            "credit_line": "Purchased 1982",
+            "acquisition_year": "1982",
+            "width": "2430",
+            "height": "1860",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1979\u201381",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P07/P07639_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/acconci-3-flags-for-1-space-and-6-regions-p07639"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "52cbe26d-282e-4af8-b127-ee23514a872c",
+        "fields": {
+            "title": "Overall Show",
+            "search_title": "Overall Show",
+            "artist_id": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+            "medium": "5 works on paper, photographs, ink and printed papers",
+            "credit_line": "Presented by the Billstone Foundation 2009",
+            "acquisition_year": "2010",
+            "width": "940",
+            "height": "1747",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/acconci-overall-show-t13175"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "d013f66f-5a7a-4b69-bbbc-7bbeb94aa31e",
+        "fields": {
+            "title": "Room Situation",
+            "search_title": "Room Situation",
+            "artist_id": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+            "medium": "2 photographs, gelatin silver print, on paper and 10 works on paper, ink",
+            "credit_line": "Presented by Barbara Gladstone 2001",
+            "acquisition_year": "2001",
+            "width": "",
+            "height": "",
+            "depth": "",
+            "units": "",
+            "inscription": "",
+            "date_text": "1970",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P11/P11775_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/acconci-room-situation-p11775"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "595cc0ca-b399-4997-bca2-e92669552786",
+        "fields": {
+            "title": "SEEDBED",
+            "search_title": "SEEDBED",
+            "artist_id": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+            "medium": "3 works on paper, photographs, ink and printed papers",
+            "credit_line": "Presented by the Billstone Foundation 2009",
+            "acquisition_year": "2010",
+            "width": "851",
+            "height": "1233",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/acconci-seedbed-t13176"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "603ef363-0914-4f70-93ad-c21dbe398408",
+        "fields": {
+            "title": "SUPPLY ROOM",
+            "search_title": "SUPPLY ROOM",
+            "artist_id": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+            "medium": "6 works on paper, photographs, ink and printed papers",
+            "credit_line": "Presented by the Billstone Foundation 2009",
+            "acquisition_year": "2010",
+            "width": "858",
+            "height": "959",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/acconci-supply-room-t13177"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "eb42f4a1-eefb-463e-89ba-490eac6cc966",
+        "fields": {
+            "title": "TRANSFERENCE ZONE",
+            "search_title": "TRANSFERENCE ZONE",
+            "artist_id": "e6b32167-05d1-4bc9-bb10-8bdedf397d02",
+            "medium": "6 works on paper, photographs, ink and printed papers",
+            "credit_line": "Presented by the Billstone Foundation 2009",
+            "acquisition_year": "2010",
+            "width": "858",
+            "height": "992",
+            "depth": "",
+            "units": "mm",
+            "inscription": "",
+            "date_text": "1972",
+            "thumbnail_url": "",
+            "tate_url": "http://www.tate.org.uk/art/artworks/acconci-transference-zone-t13178"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "749c01a5-68a7-4147-bff9-e42b14be7f71",
+        "fields": {
+            "tate_id": "624",
+            "name": "Ackling, Roger",
+            "search_name": "Ackling, Roger",
+            "gender": "Male",
+            "place_of_birth": "Isleworth, United Kingdom",
+            "place_of_death": "",
+            "birth_year": 1947,
+            "death_year": 2014,
+            "tate_url": "http://www.tate.org.uk/art/artists/roger-ackling-624"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ce0be998-9163-4f49-a529-51e16f787747",
+        "fields": {
+            "title": "Five Sunsets in One Hour",
+            "search_title": "Five Sunsets in One Hour",
+            "artist_id": "749c01a5-68a7-4147-bff9-e42b14be7f71",
+            "medium": "Burnt lines on board and transfer lettering on card",
+            "credit_line": "Presented by the Contemporary Art Society 1983",
+            "acquisition_year": "1983",
+            "width": "558",
+            "height": "367",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1978",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/T/T03/T03562_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/ackling-five-sunsets-in-one-hour-t03562"
+        }
+    },
+    {
+        "model": "artworks.artist",
+        "pk": "d200f336-5ee2-44e6-9dc3-dec8b6a77221",
+        "fields": {
+            "tate_id": "625",
+            "name": "Ackroyd, Norman",
+            "search_name": "Ackroyd, Norman",
+            "gender": "Male",
+            "place_of_birth": "Leeds, United Kingdom",
+            "place_of_death": "",
+            "birth_year": 1938,
+            "death_year": null,
+            "tate_url": "http://www.tate.org.uk/art/artists/norman-ackroyd-625"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "c52d2ddd-9124-47c0-ad0f-b8d936430a05",
+        "fields": {
+            "title": "1st Millbank Print",
+            "search_title": "1st Millbank Print",
+            "artist_id": "d200f336-5ee2-44e6-9dc3-dec8b6a77221",
+            "medium": "Intaglio print on paper",
+            "credit_line": "Purchased 1975",
+            "acquisition_year": "1975",
+            "width": "505",
+            "height": "454",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P07/P07131_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/ackroyd-1st-millbank-print-p07131"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "c767cd12-4b5e-4a65-9f5b-048eac967aa8",
+        "fields": {
+            "title": "Cartmel Fell",
+            "search_title": "Cartmel Fell",
+            "artist_id": "d200f336-5ee2-44e6-9dc3-dec8b6a77221",
+            "medium": "Etching and watercolour on paper",
+            "credit_line": "Purchased 1996",
+            "acquisition_year": "1996",
+            "width": "628",
+            "height": "480",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1996",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P77/P77815_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/ackroyd-cartmel-fell-p77815"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "969ef133-b4db-48ef-9d74-d42c42252614",
+        "fields": {
+            "title": "Gentle Rainstorm",
+            "search_title": "Gentle Rainstorm",
+            "artist_id": "d200f336-5ee2-44e6-9dc3-dec8b6a77221",
+            "medium": "Intaglio print on paper",
+            "credit_line": "Purchased 1975",
+            "acquisition_year": "1975",
+            "width": "216",
+            "height": "190",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1974",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P07/P07133_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/ackroyd-gentle-rainstorm-p07133"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "af6b036e-741d-48da-9efb-f080878cc53e",
+        "fields": {
+            "title": "Millbank, Black Version",
+            "search_title": "Millbank, Black Version",
+            "artist_id": "d200f336-5ee2-44e6-9dc3-dec8b6a77221",
+            "medium": "Intaglio print on paper",
+            "credit_line": "Purchased 1975",
+            "acquisition_year": "1975",
+            "width": "505",
+            "height": "457",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1972",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P07/P07132_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/ackroyd-millbank-black-version-p07132"
+        }
+    },
+    {
+        "model": "artworks.artwork",
+        "pk": "ffdfa777-f711-4869-9698-8977b58b96d5",
+        "fields": {
+            "title": "The Avenue at Avington",
+            "search_title": "The Avenue at Avington",
+            "artist_id": "d200f336-5ee2-44e6-9dc3-dec8b6a77221",
+            "medium": "Aquatint on paper",
+            "credit_line": "Transferred from the Library 1983",
+            "acquisition_year": "1983",
+            "width": "95",
+            "height": "114",
+            "depth": "",
+            "units": "mm",
+            "inscription": "date inscribed",
+            "date_text": "1982",
+            "thumbnail_url": "http://www.tate.org.uk/art/images/work/P/P08/P08210_8.jpg",
+            "tate_url": "http://www.tate.org.uk/art/artworks/ackroyd-the-avenue-at-avington-p08210"
+        }
+    }
+]

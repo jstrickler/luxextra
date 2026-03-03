@@ -1,0 +1,12 @@
+{% extends "_base.html" %}
+
+{% block footer %}
+  <div>
+    {% url "classviews:home" as home_url %}
+    {% if request.path != home_url %}
+    <!-- this is in every footer except on home page -->
+    <a href="{{ home_url }}">Return to Class-based Views</a>
+    {% endif %}
+  </div>
+  {{ block.super }}
+{% endblock footer %}

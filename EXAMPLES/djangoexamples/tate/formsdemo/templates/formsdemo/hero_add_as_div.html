@@ -1,0 +1,13 @@
+{% extends "formsdemo/formsdemo_base.html" %}
+
+{% block content %}
+<h1>{{ page_title }}</h1>
+<form action="{% url 'formsdemo:heroadd' 'as_div' %}" method="post">
+    {% csrf_token %}
+    <div>
+        {{ form.as_div }}
+        <input type="submit" value="Add Hero"/>
+    </div>
+</form>
+
+{% endblock %}

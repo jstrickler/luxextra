@@ -1,0 +1,13 @@
+{% extends "_base.html" %}
+{% block content %}
+<div class="container">
+<h1>{{ message }}</h1>
+
+<h2><a href="{% url 'classviews:home' %}">Class-based views (tate.classviews)</a></h2>
+<h2><a href="{% url 'functionviews:home' %}">Function-based views (tate.functionviews)</a></h2>
+<h2><a href="{% url 'formsdemo:home' %}">Basic forms demo (tate.formsdemo)</a></h2>
+<h2><a href="{% url 'messagesdemo:home' %}">Messages demo (tate.messagessdemo)</a></h2>
+
+</div>
+{% endblock content %}
+

@@ -1,0 +1,26 @@
+{% extends "classviews/classviews_base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+<h1>Artists</h1>
+<p>ARTIST LIST</p>
+<div class="container">
+     <div class="row">
+          <div class="col-md-3">
+               <h2>Refine Search</h2>
+               <form method="get" action="{% url 'classviews:artists' %}">
+                    {% csrf_token %}
+                    {{ artist_search_form | crispy }}
+                    <button class='btn btn-success float-end'>Search</button>
+               </form>
+          </div>
+          <div class="col-md-9">
+               {% for artist in page_obj %}
+                    <a href="{% url 'classviews:artistdetail' artist.id %}">{{ artist.name|upper }}</a><br/>
+               {% endfor %}
+          
+               {% include "artworks/paginate.html" %}
+          </div>
+     </div>
+</div>
+{% endblock content %}
+

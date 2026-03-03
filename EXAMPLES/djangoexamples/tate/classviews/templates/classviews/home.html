@@ -1,0 +1,11 @@
+{% extends "_base.html" %}
+{% block content %}
+<div class="container">
+<h1>{{ message }}</h1>
+
+<h2><a href="{% url 'classviews:artists' %}">Go to artists</a></h2>
+<h2><a href="{% url 'classviews:artworks' %}">Go to artworks</a></h2>
+
+</div>
+{% endblock content %}
+

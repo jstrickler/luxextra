@@ -1,0 +1,27 @@
+{% extends "classviews/classviews_base.html" %}
+{% block content %}
+<div class="container">
+<h1>{{ artist.name}}</h1>
+<table border="2">
+<tr><td>Place of birth</td><td>{{ artist.place_of_birth }}</td></tr>
+<tr><td>Works</td><td>
+<ul>
+     {% for artwork in artist.artworks.all %}
+     <li><a href="{% url 'classviews:artworkdetail' artwork.id %}">{{ artwork.title }}</a></li>
+     {% endfor %}
+     </td></tr>
+</ul>
+<tr><td>Birth year</td><td>{{ artist.birth_year }}</td></tr>
+<tr><td>Death year</td><td>{{ artist.death_year }}</td></tr>
+<tr><td>Gender</td><td>{{ artist.gender }}</td></tr>
+<tr><td>Place of birth</td><td>{{ artist.place_of_birth }}</td></tr>
+<tr><td>Place of death</td><td>{{ artist.place_of_death }}</td></tr>
+<tr><td></td><td>{{ artist. }}</td></tr>
+<tr><td></td><td>{{ artist. }}</td></tr>
+<tr><td></td><td>{{ artist. }}</td></tr>
+
+</table>
+</div>
+<a href="{{ request.META.HTTP_REFERER|default:'/' }}">Back to artists list</a>
+{% endblock content %}
+

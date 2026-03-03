@@ -1,0 +1,25 @@
+{% extends "classviews/classviews_base.html" %}
+
+{% block content %}
+<div class="container">
+     <h1>{{ artwork.title }}</h1>
+     <table border="2">
+     <tr><td>Artist</td><td>{{ artwork.artist.name }}</td></tr>
+     <tr><td>Date of work</td><td>{{ artwork.date_text }}</td></tr>
+     <tr><td>Medium</td><td>{{ artwork.medium }}</td></tr>
+     <tr><td>Credit line</td><td>{{ artwork.credit_line }}</td></tr>
+     <tr><td>Acquisition year</td><td>{{ artwork.acquisition_year }}</td></tr>
+     <tr><td>Dimensions</td><td>
+          Width {{ artwork.width }}<br/>
+          Height {{ artwork.height }}<br/>
+          Depth {{ artwork.depth }}<br/>
+          Units {{ artwork.units }}<br/>
+     </td></tr>
+     <tr><td>Inscription</td><td>{{ artwork.inscription }}</td></tr>
+     <tr><td></td><td>{{ artwork. }}</td></tr>
+     </table>
+</div>
+<a href="{{ request.META.HTTP_REFERER|default:'/' }}">Back to artworks list</a>
+
+{% endblock content %}
+

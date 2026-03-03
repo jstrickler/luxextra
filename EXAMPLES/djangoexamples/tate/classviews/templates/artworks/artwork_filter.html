@@ -1,0 +1,15 @@
+{% extends "classviews/classviews_base.html" %}
+
+{% block content %}
+<h1>Artworks</h1>
+<div class="container">
+     <div class="container">
+          {% for artwork in page_obj %}
+               <a href="{% url 'classviews:artworkdetail' artwork.id %}">{{ artwork.title|upper }}</a> (<a href="{% url 'classviews:artistdetail' artwork.artist.id %}">{{ artwork.artist.name }}</a>)<br/>
+           {% endfor %}
+      
+     </div>
+     {% include "artworks/paginate.html" %}     
+</div>
+{% endblock content %}
+

@@ -1,0 +1,21 @@
+{% extends "formsdemo/formsdemo_base.html" %}
+{% block content %}
+<div class="container">
+<h1>{{ message }}</h1>
+<h3><a href="{% url 'formsdemo:herolist' %}">Hero List</a></h3>
+<h3>Add hero</h3>
+<ul>
+    <li><a href="{% url 'formsdemo:heroadd' 'plain' %}">No layout</a></li>
+    <li><a href="{% url 'formsdemo:heroadd' 'as_div' %}">Div layout</a></li>
+    <li><a href="{% url 'formsdemo:heroadd' 'as_paragraph' %}">Paragraph layout</a></li>
+    <li><a href="{% url 'formsdemo:heroadd' 'as_unordered_list' %}">Unordered list layout</a></li>
+    <li><a href="{% url 'formsdemo:heroadd' 'as_table' %}">Table layout</a></li>
+    <li><a href="{% url 'formsdemo:heroadd' 'crispy' %}">Crispy layout</a></li>
+</ul>
+<h3><a href="{% url 'formsdemo:herodelete' %}">Delete hero with entry blank</a></h3>
+<h3><a href="{% url 'formsdemo:herodeletedropdown' %}">Delete hero from dropdown list</a></h3>
+<h3><a href="{% url 'formsdemo:demo' %}">Form field demo</a></h3>
+
+</div>
+{% endblock content %}
+
