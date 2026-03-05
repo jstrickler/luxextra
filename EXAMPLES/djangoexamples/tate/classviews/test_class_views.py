@@ -1,6 +1,5 @@
 from django.urls import reverse
 import pytest
-from artworks.models import Artist, Artwork
 from artworks.tate_test_data import ARTISTS_DATA, ARTWORKS_DATA
 
 @pytest.mark.django_db

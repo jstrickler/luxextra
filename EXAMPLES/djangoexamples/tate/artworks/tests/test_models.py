@@ -6,7 +6,7 @@ from artworks.tate_test_data import ARTISTS_DATA, ARTWORKS_DATA
 
 @pytest.mark.django_db
 @pytest.mark.parametrize('guid,artist_name', ARTISTS_DATA)
-def test_can_get_artist_name_via_guid(client, db, guid, artist_name):
+def test_can_get_artist_name_via_guid(guid, artist_name):
     artist = Artist.objects.get(pk=guid)
     assert artist.name == artist_name
 

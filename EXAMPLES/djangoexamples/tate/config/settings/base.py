@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 
-# Application definition
+USE_API_KEYS = True
 
 INSTALLED_APPS = [
     # DJANGO BUILTIN
@@ -51,7 +51,12 @@ INSTALLED_APPS = [
     'formsdemo.apps.FormsDemoConfig',
     'users.apps.UsersConfig',
     'messagesdemo.apps.MessagesDemoConfig',
+    'celerydemo.apps.CeleryDemoConfig',
 ]
+
+if USE_API_KEYS:
+    INSTALLED_APPS.append('rest_framework_api_key')
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -62,6 +67,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
 
 
 ROOT_URLCONF = 'config.urls'
@@ -118,6 +124,12 @@ SPECTACULAR_SETTINGS = {
     # OTHER SETTINGS
 }
 
+if USE_API_KEYS:
+    REST_FRAMEWORK = {
+        "DEFAULT_PERMISSION_CLASSES": [
+            "rest_framework_api_key.permissions.HasAPIKey",
+        ]
+    }
 
 LOGIN_REDIRECT_URL = "data:welcome"
 
@@ -172,3 +184,9 @@ STATIC_URL = '/static/'
 
 CRISPY_ALLOWED_TEMPLATE_PACKS = 'bootstrap5'
 CRISPY_TEMPLATE_PACK = 'bootstrap5'
+
+EMAIL_HOST = "smtp2go.com"
+EMAIL_PORT = 2525
+EMAIL_HOST_USER = "pythonclass"
+EMAIL_HOST_PASSWORD = open('/Users/jstrick/.smtp2go_pw').read().rstrip()
+

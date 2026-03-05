@@ -42,6 +42,7 @@ urlpatterns = [
     path('fbv/', include('functionviews.urls')),
     path('formsdemo/', include('formsdemo.urls')),
     path('messagesdemo/', include('messagesdemo.urls')),
+    path('celerydemo/', include('celerydemo.urls')),
 ]
 
 # include Django Debug toolbar if DEBUG is set
